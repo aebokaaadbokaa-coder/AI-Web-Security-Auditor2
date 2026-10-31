@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Web Security Auditor",
+  "description": "منصة أمن سيبراني بالذكاء الاصطناعي لفحص إعدادات أمن الويب وإصدار التقارير واقتراح الحلول الدفاعية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
